@@ -57,15 +57,15 @@ Con esto el alcance que queremos obtener con este programa seria llegar a un pub
 Este uml nos permite observar de manera sencilla lo que sería el por detrás del código de manera más simple y ordenada ya que podemos observar como cada parte del código esta relacionada ya sea de manera directa en indirecta con lo que seria el proceso de ingresar un libro o ingresar a este. [DevSaints/LibreriaPTY (github.com)](https://github.com/DevSaints/LibreriaPTY)
 
 ## Guía de usuario
-![Diagrama UML](images/Imagen1.png)
+![Diagrama UML](imagenes/Imagen1.png)
 Al iniciar el programa lo primero que vemos es la parte del dashboard en la cual será bienvenido y se le permitirá entrar ya sea a la parte principal, catalogo o mis libros. Sin embargo es necesario responder una seria de preguntas acerca de tus gustos para optimizar el programa a tu gusto.
-![Diagrama UML](images/Imagen2.png)
+![Diagrama UML](imagenes/Imagen2.png)
 Después de darle al botón de “Claro Preguntame” será introducido a un cuestionario en el cual deberá a responder a una serie de preguntas.
-![Diagrama UML](images/Imagen3.png)
+![Diagrama UML](imagenes/Imagen3.png)
 Una vez hecho ya el programa estaría listo para tu uso en la apartado de principal de este podrás ver tus estadísticas y varios de los libros recientes vistos.
-![Diagrama UML](images/Imagen4.png)
+![Diagrama UML](imagenes/Imagen4.png)
 La siguiente parte del programa estará la parte de catalogo donde el usuario podre ver un catalogo general de todos los libros disponibles dentro del programa.
-![Diagrama UML](images/Imagen5.png)
+![Diagrama UML](imagenes/Imagen5.png)
 En la parte de tus libros podrás ver diferentes de los libros que te hayan gustado y que te interesa leer.
 
 ## Funcionalidades y características 
